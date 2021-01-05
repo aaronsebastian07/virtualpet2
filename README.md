@@ -1,2 +1,1 @@
-# virtualpet2
-This is my virtual pet game, version 2. 
+# Virtual-Pet-Final
